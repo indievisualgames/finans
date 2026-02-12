@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>32553371333-laeerirjj2lt4tps3ot5tcqu8turjvig.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.32553371333-laeerirjj2lt4tps3ot5tcqu8turjvig</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>32553371333-nu5ll8qu83bh22u0bt623g1e7442bfbt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcsmyAqaxUmdG-lP0X9T3UKsbHYHHHk9c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>32553371333</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eparent.finans</string>
+	<key>PROJECT_ID</key>
+	<string>eparent-finans</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eparent-finans.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:32553371333:ios:2ea28d2c7a41a77ed192ac</string>
+</dict>
+</plist>

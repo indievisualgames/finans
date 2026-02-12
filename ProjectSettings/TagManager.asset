@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - QuitConfirmBox
+  - MessageBox
+  - toViews
+  - toStars
+  - toVisits
+  - toCoins
+  - toXps
+  - Level
+  - Star
+  - Missile
+  - Bridge
+  - Ground
+  - Fruit
+  - Monster
+  - button
+  - Enemy
+  - language
+  - Group
+  - Pointer
+  - CharacterPart
+  - Line
+  - Tool
+  - Bullet
+  - Magnet
+  - JetPack
+  - SpeedBoost
+  - Coins
+  - LessonPass
+  - FlashPass
+  - MinigamesPass
+  - MinigamesTrivia
+  - VocabsTrivia
+  - CalculatorPass
+  - CalculatorTrivia
+  - VocabsPass
+  - VideoPass
+  - VideoTrivia
+  - FlashTrivia
+  - LessonPoints
+  - FlashPoints
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Prop
+  - Monster
+  - Player
+  - Monster Turn
+  - Ignore
+  - Magnet
+  - Fruit
+  - Buttlet
+  - 
+  - 
+  - 
+  - 
+  - LowCamera
+  - MiddleCamera
+  - TopCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 3962904337
+    locked: 0
+  - name: ForceGround
+    uniqueID: 3209178349
+    locked: 0
+  - name: Collectable
+    uniqueID: 286836813
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Land
+    uniqueID: 3124189315
+    locked: 0
+  - name: Penguin
+    uniqueID: 2179362233
+    locked: 0
+  - name: Monster
+    uniqueID: 1998372193
+    locked: 0
+  - name: Night
+    uniqueID: 589508879
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7327140275153668848
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5677222367656263107}
+  - component: {fileID: 2009981245191803725}
+  - component: {fileID: 1030371757036788232}
+  - component: {fileID: 6379229437755224966}
+  m_Layer: 5
+  m_Name: Nickel_Head_tray_ingodwe
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &5677222367656263107
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7327140275153668848}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 212.459, y: 264.36}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &2009981245191803725
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7327140275153668848}
+  m_CullTransparentMesh: 1
+--- !u!114 &1030371757036788232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7327140275153668848}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: a7b6365cc373f7041b4260b49028e615, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &6379229437755224966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7327140275153668848}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23196d0b48adfe242af2f93e59799b6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  partID: Nickel_Head_ingodwe
+  pickupSFX: {fileID: 8300000, guid: 0374bcb71a1cd0b4daa491bf54596dbb, type: 3}
+  dropSFX: {fileID: 8300000, guid: 703fe71d2a7b72f4592b634563302177, type: 3}
+  snapSFX: {fileID: 8300000, guid: d8b76ce51cce97047971465092e12abe, type: 3}
+  correctFX: {fileID: 6833889563517169055, guid: 2d86b65aa10f7c649809ac4f940e55a2,
+    type: 3}
+  wrongFX: {fileID: 8376183602314439240, guid: e7b1999827252a6488876cdec2cf04b5, type: 3}
+  dragSmoothness: 10
+  correctSFX: {fileID: 8300000, guid: d77939a954983784ab1898bfaf6feb39, type: 3}
+  incorrectSFX: {fileID: 8300000, guid: 8273282eb2f2aaa428349a933d3cc53e, type: 3}
+  coinGroupID: Nickel_Head
+  parentCanvas: {fileID: 0}

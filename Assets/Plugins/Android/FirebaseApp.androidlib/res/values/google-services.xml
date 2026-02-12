@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">32553371333</string>
+  <string name="google_storage_bucket" translatable="false">eparent-finans.appspot.com</string>
+  <string name="project_id" translatable="false">eparent-finans</string>
+  <string name="google_api_key" translatable="false">AIzaSyA-B1QwsuM0PjZaMUKJE2KUYzuEv-FceMQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA-B1QwsuM0PjZaMUKJE2KUYzuEv-FceMQ</string>
+  <string name="google_app_id" translatable="false">1:32553371333:android:01c7027162549c11d192ac</string>
+  <string name="default_android_client_id" translatable="false">32553371333-nu5ll8qu83bh22u0bt623g1e7442bfbt.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">32553371333-v65j4gcn0iddno36ad8n9vgjfm77bq6c.apps.googleusercontent.com</string>
+</resources>

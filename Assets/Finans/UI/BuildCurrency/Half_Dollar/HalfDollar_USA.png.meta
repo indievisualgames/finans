@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: b535439e67f5fa946b0d14d0f1e9b164
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4811582139433373887
+    second: HalfDollar_USA_0
+  - first:
+      213: 8373875970620083236
+    second: HalfDollar_USA_1
+  - first:
+      213: 8869315255095169328
+    second: HalfDollar_USA_2
+  - first:
+      213: 1671029076844227850
+    second: HalfDollar_USA_3
+  - first:
+      213: 5426606030086981299
+    second: HalfDollar_USA_4
+  - first:
+      213: 3750743464507016901
+    second: HalfDollar_USA_5
+  - first:
+      213: 3297324941179328465
+    second: HalfDollar_USA_6
+  - first:
+      213: -411718485143234505
+    second: HalfDollar_USA_7
+  - first:
+      213: 3318863438858063806
+    second: HalfDollar_USA_8
+  - first:
+      213: 2282972041417873876
+    second: HalfDollar_USA_9
+  - first:
+      213: -8223063838057546129
+    second: HalfDollar_USA_10
+  - first:
+      213: -745329108776466259
+    second: HalfDollar_USA_11
+  - first:
+      213: 1817876599770535977
+    second: HalfDollar_USA_12
+  - first:
+      213: 9076535807069909964
+    second: HalfDollar_USA_13
+  - first:
+      213: -5917935221316712426
+    second: HalfDollar_USA_14
+  - first:
+      213: 361544439665254788
+    second: HalfDollar_USA_15
+  - first:
+      213: -6990623394415653667
+    second: HalfDollar_USA_16
+  - first:
+      213: -4747430784735788313
+    second: HalfDollar_USA_17
+  - first:
+      213: -1902122606009401586
+    second: HalfDollar_USA_18
+  - first:
+      213: 946238069622056633
+    second: HalfDollar_USA_19
+  - first:
+      213: -724661588238771058
+    second: HalfDollar_USA_20
+  - first:
+      213: 5232703650540453737
+    second: HalfDollar_USA_21
+  - first:
+      213: 3184572411178163853
+    second: HalfDollar_USA_22
+  - first:
+      213: -7381312510051501848
+    second: HalfDollar_USA_23
+  - first:
+      213: -6295816120362010122
+    second: HalfDollar_USA_24
+  - first:
+      213: 4584133055388714589
+    second: HalfDollar_USA_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HalfDollar_USA_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 485
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fa57b7983d93db0800000000000000
+      internalID: -4811582139433373887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 505
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c4dfd14dbf53470800000000000000
+      internalID: 8373875970620083236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 534
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03196ec9b33261b70800000000000000
+      internalID: 8869315255095169328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 541
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d26a68710b03710800000000000000
+      internalID: 1671029076844227850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 538
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c357de6d2f4b40800000000000000
+      internalID: 5426606030086981299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 511
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c60f850f415d0430800000000000000
+      internalID: 3750743464507016901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_6
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 490
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d79704609372cd20800000000000000
+      internalID: 3297324941179328465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 351
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73853991838494af0800000000000000
+      internalID: -411718485143234505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 445
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf8a2ba6b8fe0e20800000000000000
+      internalID: 3318863438858063806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_9
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 415
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d95cd8d9febeaf10800000000000000
+      internalID: 2282972041417873876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_10
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 378
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e3837c10fc1ed80800000000000000
+      internalID: -8223063838057546129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 393
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8ce9edf1f08a5f0800000000000000
+      internalID: -745329108776466259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_12
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 345
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92851dec2256a3910800000000000000
+      internalID: 1817876599770535977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 232
+        width: 91
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3f38b1a3556fd70800000000000000
+      internalID: 9076535807069909964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 289
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61805a155454fdda0800000000000000
+      internalID: -5917935221316712426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_15
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 285
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481e3c890c6740500800000000000000
+      internalID: 361544439665254788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_16
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 210
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcc1598f015cfe90800000000000000
+      internalID: -6990623394415653667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 177
+        width: 83
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2c110badcbd1eb0800000000000000
+      internalID: -4747430784735788313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_18
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 172
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fb195519d4a95e0800000000000000
+      internalID: -1902122606009401586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_19
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 181
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b626ccc286b12d00800000000000000
+      internalID: 946238069622056633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c58aaff1c71f5f0800000000000000
+      internalID: -724661588238771058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_21
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 91
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f7a510f3c4e9840800000000000000
+      internalID: 5232703650540453737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 99
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e98c14cbfd13c20800000000000000
+      internalID: 3184572411178163853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8bb36416f409990800000000000000
+      internalID: -7381312510051501848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_24
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9f4ae5894c0a8a0800000000000000
+      internalID: -6295816120362010122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HalfDollar_USA_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 26
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d560291e9bc1e9f30800000000000000
+      internalID: 4584133055388714589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HalfDollar_USA_0: -4811582139433373887
+      HalfDollar_USA_1: 8373875970620083236
+      HalfDollar_USA_10: -8223063838057546129
+      HalfDollar_USA_11: -745329108776466259
+      HalfDollar_USA_12: 1817876599770535977
+      HalfDollar_USA_13: 9076535807069909964
+      HalfDollar_USA_14: -5917935221316712426
+      HalfDollar_USA_15: 361544439665254788
+      HalfDollar_USA_16: -6990623394415653667
+      HalfDollar_USA_17: -4747430784735788313
+      HalfDollar_USA_18: -1902122606009401586
+      HalfDollar_USA_19: 946238069622056633
+      HalfDollar_USA_2: 8869315255095169328
+      HalfDollar_USA_20: -724661588238771058
+      HalfDollar_USA_21: 5232703650540453737
+      HalfDollar_USA_22: 3184572411178163853
+      HalfDollar_USA_23: -7381312510051501848
+      HalfDollar_USA_24: -6295816120362010122
+      HalfDollar_USA_25: 4584133055388714589
+      HalfDollar_USA_3: 1671029076844227850
+      HalfDollar_USA_4: 5426606030086981299
+      HalfDollar_USA_5: 3750743464507016901
+      HalfDollar_USA_6: 3297324941179328465
+      HalfDollar_USA_7: -411718485143234505
+      HalfDollar_USA_8: 3318863438858063806
+      HalfDollar_USA_9: 2282972041417873876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

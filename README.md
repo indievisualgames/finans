@@ -1,0 +1,3 @@
+# finans
+
+Interactive learning app

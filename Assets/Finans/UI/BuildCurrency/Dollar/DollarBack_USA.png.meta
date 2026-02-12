@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: f49f75a4a303a1b4291c0565e572ac60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -908502622015883812
+    second: DollarBack_USA_0
+  - first:
+      213: 1632917380069648826
+    second: DollarBack_USA_1
+  - first:
+      213: 7406766393239505689
+    second: DollarBack_USA_2
+  - first:
+      213: 1272018372527095815
+    second: DollarBack_USA_3
+  - first:
+      213: -1833744296904084870
+    second: DollarBack_USA_4
+  - first:
+      213: -1769975131830666394
+    second: DollarBack_USA_5
+  - first:
+      213: 117412342998073405
+    second: DollarBack_USA_6
+  - first:
+      213: -4157282857560205496
+    second: DollarBack_USA_7
+  - first:
+      213: 5203456749997661829
+    second: DollarBack_USA_8
+  - first:
+      213: -7080653271710554822
+    second: DollarBack_USA_9
+  - first:
+      213: 844965540795932599
+    second: DollarBack_USA_10
+  - first:
+      213: -7618166544329264542
+    second: DollarBack_USA_11
+  - first:
+      213: -8513651293654668657
+    second: DollarBack_USA_12
+  - first:
+      213: -6464351750847051803
+    second: DollarBack_USA_13
+  - first:
+      213: -7657627707072866722
+    second: DollarBack_USA_14
+  - first:
+      213: -9164962370069206332
+    second: DollarBack_USA_15
+  - first:
+      213: 1450488552523383723
+    second: DollarBack_USA_16
+  - first:
+      213: 2474501183574703449
+    second: DollarBack_USA_17
+  - first:
+      213: -3822952328154718828
+    second: DollarBack_USA_18
+  - first:
+      213: -4380295803572891429
+    second: DollarBack_USA_19
+  - first:
+      213: -4162040001851124922
+    second: DollarBack_USA_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DollarBack_USA_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 560
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd57b31cda95463f0800000000000000
+      internalID: -908502622015883812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9ec92a4b949a610800000000000000
+      internalID: 1632917380069648826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 445
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b875bbace1ac660800000000000000
+      internalID: 7406766393239505689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 386
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008f3a68fd17a110800000000000000
+      internalID: 1272018372527095815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 322
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72322e074b3d86e0800000000000000
+      internalID: -1833744296904084870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_5
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 281
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b35fdcef8cf67e0800000000000000
+      internalID: -1769975131830666394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_6
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 258
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3085a467e121a100800000000000000
+      internalID: 117412342998073405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_7
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 229
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8479d4c644d5e46c0800000000000000
+      internalID: -4157282857560205496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 171
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e18b35854663840800000000000000
+      internalID: 5203456749997661829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 128
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a352cf14d577cbd90800000000000000
+      internalID: -7080653271710554822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_10
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 133
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf569abeabe9bb00800000000000000
+      internalID: 844965540795932599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 183
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2623d7504e5d64690800000000000000
+      internalID: -7618166544329264542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 81
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a2b24714f69d980800000000000000
+      internalID: -8513651293654668657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 57
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7469b05520a46a0800000000000000
+      internalID: -6464351750847051803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_14
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 54
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e569bb91c24aab590800000000000000
+      internalID: -7657627707072866722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_15
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 100
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cae33058438fc080800000000000000
+      internalID: -9164962370069206332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 26
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba34deb47ab212410800000000000000
+      internalID: 1450488552523383723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 14
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95df04b47b1375220800000000000000
+      internalID: 2474501183574703449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_18
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dd517cc1522fac0800000000000000
+      internalID: -3822952328154718828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_19
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd057e8ac201633c0800000000000000
+      internalID: -4380295803572891429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_USA_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 22
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64392b47ba67d36c0800000000000000
+      internalID: -4162040001851124922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DollarBack_USA_0: -908502622015883812
+      DollarBack_USA_1: 1632917380069648826
+      DollarBack_USA_10: 844965540795932599
+      DollarBack_USA_11: -7618166544329264542
+      DollarBack_USA_12: -8513651293654668657
+      DollarBack_USA_13: -6464351750847051803
+      DollarBack_USA_14: -7657627707072866722
+      DollarBack_USA_15: -9164962370069206332
+      DollarBack_USA_16: 1450488552523383723
+      DollarBack_USA_17: 2474501183574703449
+      DollarBack_USA_18: -3822952328154718828
+      DollarBack_USA_19: -4380295803572891429
+      DollarBack_USA_2: 7406766393239505689
+      DollarBack_USA_20: -4162040001851124922
+      DollarBack_USA_3: 1272018372527095815
+      DollarBack_USA_4: -1833744296904084870
+      DollarBack_USA_5: -1769975131830666394
+      DollarBack_USA_6: 117412342998073405
+      DollarBack_USA_7: -4157282857560205496
+      DollarBack_USA_8: 5203456749997661829
+      DollarBack_USA_9: -7080653271710554822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

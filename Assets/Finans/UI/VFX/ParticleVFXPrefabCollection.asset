@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6be4fbcee3218046a7d7d03159ca196, type: 3}
+  m_Name: ParticleVFXPrefabCollection
+  m_EditorClassIdentifier: 
+  scoreAdditionPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  scoreSubtractionPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  xpGainPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  xpLossPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  coinGainPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  coinLossPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  starAchievementPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  starLossPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  levelUpPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  milestonePrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  streakBonusPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  speedTierPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  perfectAccuracyPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  personalBestPrefab: {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f,
+    type: 3}
+  alternativeParticlePrefabs:
+  - {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f, type: 3}
+  useRandomParticleVariants: 0
+  particleCategories:
+  - categoryName: 
+    particlePrefabs:
+    - {fileID: 2520910342992286236, guid: 2db2ae09d8731254f8192f91f267366f, type: 3}
+    useRandomSelection: 0

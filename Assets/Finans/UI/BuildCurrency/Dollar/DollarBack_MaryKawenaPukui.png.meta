@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 28ba078c73eb4f04c9d5fad547eb6772
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1103801107109117493
+    second: DollarBack_MaryKawenaPukui_0
+  - first:
+      213: -543904357153956310
+    second: DollarBack_MaryKawenaPukui_1
+  - first:
+      213: -8003562821953264565
+    second: DollarBack_MaryKawenaPukui_2
+  - first:
+      213: -8149673360909769575
+    second: DollarBack_MaryKawenaPukui_3
+  - first:
+      213: -1489915866908409428
+    second: DollarBack_MaryKawenaPukui_4
+  - first:
+      213: 5142016377863483360
+    second: DollarBack_MaryKawenaPukui_5
+  - first:
+      213: 8974106675803293466
+    second: DollarBack_MaryKawenaPukui_6
+  - first:
+      213: -8453324963681511634
+    second: DollarBack_MaryKawenaPukui_7
+  - first:
+      213: 8733314578967232887
+    second: DollarBack_MaryKawenaPukui_8
+  - first:
+      213: 1934257677432184422
+    second: DollarBack_MaryKawenaPukui_9
+  - first:
+      213: 71064284702249430
+    second: DollarBack_MaryKawenaPukui_10
+  - first:
+      213: 2872248100356269304
+    second: DollarBack_MaryKawenaPukui_11
+  - first:
+      213: -216283981689844398
+    second: DollarBack_MaryKawenaPukui_12
+  - first:
+      213: -703889069339442087
+    second: DollarBack_MaryKawenaPukui_13
+  - first:
+      213: 89593313105697756
+    second: DollarBack_MaryKawenaPukui_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 220
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc10414cdb28ea0f0800000000000000
+      internalID: -1103801107109117493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 243
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e1d007ed9a378f0800000000000000
+      internalID: -543904357153956310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 262
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44e3f3a402ade090800000000000000
+      internalID: -8003562821953264565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_3
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 262
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994628fc14b86ee80800000000000000
+      internalID: -8149673360909769575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_4
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 251
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1c4b7b961c25be0800000000000000
+      internalID: -1489915866908409428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 226
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef2bcfe6ac1c5740800000000000000
+      internalID: 5142016377863483360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 196
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1787bb897e6a8c70800000000000000
+      internalID: 8974106675803293466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2752d0bbb1cfaa80800000000000000
+      internalID: -8453324963681511634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 179
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7710517a657f23970800000000000000
+      internalID: 8733314578967232887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 145
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eda670c1dd7da10800000000000000
+      internalID: 1934257677432184422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d115e527987cf000800000000000000
+      internalID: 71064284702249430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 70
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4a680fd664cd720800000000000000
+      internalID: 2872248100356269304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 85
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d05c45dda9ffcf0800000000000000
+      internalID: -216283981689844398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 39
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9540ebcee984b36f0800000000000000
+      internalID: -703889069339442087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarBack_MaryKawenaPukui_14
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb5ae1c4ac4e3100800000000000000
+      internalID: 89593313105697756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DollarBack_MaryKawenaPukui_0: -1103801107109117493
+      DollarBack_MaryKawenaPukui_1: -543904357153956310
+      DollarBack_MaryKawenaPukui_10: 71064284702249430
+      DollarBack_MaryKawenaPukui_11: 2872248100356269304
+      DollarBack_MaryKawenaPukui_12: -216283981689844398
+      DollarBack_MaryKawenaPukui_13: -703889069339442087
+      DollarBack_MaryKawenaPukui_14: 89593313105697756
+      DollarBack_MaryKawenaPukui_2: -8003562821953264565
+      DollarBack_MaryKawenaPukui_3: -8149673360909769575
+      DollarBack_MaryKawenaPukui_4: -1489915866908409428
+      DollarBack_MaryKawenaPukui_5: 5142016377863483360
+      DollarBack_MaryKawenaPukui_6: 8974106675803293466
+      DollarBack_MaryKawenaPukui_7: -8453324963681511634
+      DollarBack_MaryKawenaPukui_8: 8733314578967232887
+      DollarBack_MaryKawenaPukui_9: 1934257677432184422
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

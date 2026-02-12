@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: b1d20c18f49969b41bff2cf9cee87595
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2696398734834792968
+    second: Musical-removebg-preview_0
+  - first:
+      213: -4579956101657457305
+    second: Musical-removebg-preview_1
+  - first:
+      213: -5913419090446252961
+    second: Musical-removebg-preview_2
+  - first:
+      213: -5769843002988147717
+    second: Musical-removebg-preview_3
+  - first:
+      213: -7258346567879494651
+    second: Musical-removebg-preview_4
+  - first:
+      213: 9045056530627185663
+    second: Musical-removebg-preview_5
+  - first:
+      213: 1461844831388478723
+    second: Musical-removebg-preview_6
+  - first:
+      213: 1190470454076951042
+    second: Musical-removebg-preview_7
+  - first:
+      213: 1292509254310569581
+    second: Musical-removebg-preview_8
+  - first:
+      213: 3516439094343150788
+    second: Musical-removebg-preview_9
+  - first:
+      213: -1000862954620509614
+    second: Musical-removebg-preview_10
+  - first:
+      213: -1438407951398009233
+    second: Musical-removebg-preview_11
+  - first:
+      213: -974193369074970995
+    second: Musical-removebg-preview_12
+  - first:
+      213: -2302613505120339553
+    second: Musical-removebg-preview_13
+  - first:
+      213: 4169032505541116558
+    second: Musical-removebg-preview_14
+  - first:
+      213: 3236993679105700635
+    second: Musical-removebg-preview_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Musical-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 452
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80af3aafc588b6520800000000000000
+      internalID: 2696398734834792968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 368
+        width: 83
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d03d1f03ab070c0800000000000000
+      internalID: -4579956101657457305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 414
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5400f9faa05feda0800000000000000
+      internalID: -5913419090446252961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 420
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb4e15db566defa0800000000000000
+      internalID: -5769843002988147717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504fddcb04c254b90800000000000000
+      internalID: -7258346567879494651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 133
+        width: 298
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb4c59edfe768d70800000000000000
+      internalID: 9045056530627185663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 415
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da6a30124894410800000000000000
+      internalID: 1461844831388478723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 344
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20acad21296658010800000000000000
+      internalID: 1190470454076951042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 403
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66261c915aefe110800000000000000
+      internalID: 1292509254310569581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccae94b9b6ecc030800000000000000
+      internalID: 3516439094343150788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 246
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2522ff012783c12f0800000000000000
+      internalID: -1000862954620509614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 244
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6603d6d69fb90ce0800000000000000
+      internalID: -1438407951398009233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 174
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eceb5da48fa72f0800000000000000
+      internalID: -974193369074970995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 132
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99f84487397b00e0800000000000000
+      internalID: -2302613505120339553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 32
+        width: 386
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c5dda9f06bd930800000000000000
+      internalID: 4169032505541116558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Musical-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 114
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13b74fc99c1cec20800000000000000
+      internalID: 3236993679105700635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Musical-removebg-preview_0: 2696398734834792968
+      Musical-removebg-preview_1: -4579956101657457305
+      Musical-removebg-preview_10: -1000862954620509614
+      Musical-removebg-preview_11: -1438407951398009233
+      Musical-removebg-preview_12: -974193369074970995
+      Musical-removebg-preview_13: -2302613505120339553
+      Musical-removebg-preview_14: 4169032505541116558
+      Musical-removebg-preview_15: 3236993679105700635
+      Musical-removebg-preview_2: -5913419090446252961
+      Musical-removebg-preview_3: -5769843002988147717
+      Musical-removebg-preview_4: -7258346567879494651
+      Musical-removebg-preview_5: 9045056530627185663
+      Musical-removebg-preview_6: 1461844831388478723
+      Musical-removebg-preview_7: 1190470454076951042
+      Musical-removebg-preview_8: 1292509254310569581
+      Musical-removebg-preview_9: 3516439094343150788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

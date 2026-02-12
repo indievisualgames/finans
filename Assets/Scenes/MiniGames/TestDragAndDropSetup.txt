@@ -1,0 +1,14 @@
+Test Scene Setup for Drag-and-Drop: Match Coins and Notes
+
+1. Create a new scene and save as Assets/Scenes/TestDragAndDrop.unity
+2. Add an empty GameObject named 'GameManager' and attach the GameManager script.
+3. Add an empty GameObject named 'UIManager' and attach the UIManager script. Set up HUD and feedback panels as needed.
+4. Add an empty GameObject named 'AudioManager' and attach the AudioManager script.
+5. Add an empty GameObject named 'LevelManager' and attach the LevelManager script.
+6. Create a Canvas for UI. Add the HowToTutorialTemplate prefab/panel.
+7. In Assets/Prefabs/DragAndDrop/, create prefabs:
+   - CoinPrefab: SpriteRenderer, CanvasGroup, CoinDragHandler, CoinTypeIdentifier (set coinType)
+   - SlotPrefab: SpriteRenderer, CoinSlot (set expectedCoinType)
+8. Drag several CoinPrefabs and SlotPrefabs into the scene. Arrange slots and coins visually.
+9. Play the scene. Drag coins to slots. Correct matches trigger feedback and scoring.
+10. Use LevelManager to increase the number of coins/slots for higher levels. 

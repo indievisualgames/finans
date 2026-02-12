@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: dee289533a42ad549be5fdea41f95d4b
+  - enabled: 1
+    path: Assets/ExternalAssets/PictureQuizPlus/Scenes/GameScene.unity
+    guid: 369960b6180ac814b80f66d8855218dc
+  - enabled: 1
+    path: Assets/Scenes/Agreement.unity
+    guid: 921a1e7f45cbdb04b85868fb33ed4505
+  - enabled: 1
+    path: Assets/Scenes/LanguageRegion.unity
+    guid: 24a0a9d464ab1ae4296a50b3ae6349b7
+  - enabled: 1
+    path: Assets/Scenes/AppAuthentication.unity
+    guid: 1b60c9cab4a9a32458ad7fbe3e9cc98d
+  - enabled: 1
+    path: Assets/Scenes/ChildAuthentication.unity
+    guid: 2711dac0c0fc37a47bdc2740c507c43b
+  - enabled: 1
+    path: Assets/Scenes/ParentAccount.unity
+    guid: 7ca5ee77c15a659479072a73d5969b07
+  - enabled: 1
+    path: Assets/Scenes/ParentDashboard.unity
+    guid: e771ba7bbe042b74197354e7a44b3b4d
+  - enabled: 1
+    path: Assets/Scenes/Level.unity
+    guid: ad3962a91666c634db09f5bd912ac44f
+  - enabled: 1
+    path: Assets/Scenes/ChildDashboard.unity
+    guid: 0381a4e561adcf146828e40496bc8511
+  - enabled: 1
+    path: Assets/Scenes/ChildProgressDashboard.unity
+    guid: b33ece2d41ff759408f69cadce1bf530
+  - enabled: 1
+    path: Assets/Scenes/AddChildDashboard.unity
+    guid: 344588f5653865a4c907c6ec8f224212
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: 00f1e0f6b9b97481ea836faf54ec7a60
+  - enabled: 1
+    path: Assets/ExternalAssets/PenguinAdventure/Scene/Unit01/U1-1.unity
+    guid: 4fac26c2d537f084bafde53cb42837dc
+  - enabled: 1
+    path: Assets/ExternalAssets/PenguinAdventure/Scene/Unit01/U1-2.unity
+    guid: 855bff939aa5c534dad68d533e68cfda
+  - enabled: 1
+    path: Assets/ExternalAssets/PenguinAdventure/Scene/Unit01/U1-3.unity
+    guid: 509be0f094c007740b55c6b0fd9d7088
+  - enabled: 1
+    path: Assets/ExternalAssets/PenguinAdventure/Scene/Unit01/U1-4.unity
+    guid: 5010d39fde40b934b9cdc609753bb1ee
+  - enabled: 1
+    path: Assets/ExternalAssets/PenguinAdventure/Scene/Unit01/U1-5.unity
+    guid: 08181bfafcafc5b44a9537dbd196df9d
+  - enabled: 1
+    path: Assets/ExternalAssets/PenguinAdventure/Scene/Unit01/U1-6.unity
+    guid: b329ce5e38b505e4baa58bd37bf4c4d6
+  - enabled: 1
+    path: Assets/ExternalAssets/PenguinAdventure/Scene/Unit01/U1-7.unity
+    guid: da08d39cf8a23b749a083e874c21600a
+  - enabled: 1
+    path: Assets/ExternalAssets/PenguinAdventure/Scene/Unit01/U1-8.unity
+    guid: b8139daf26fd9154fb8ccb0bbbfd72f6
+  - enabled: 1
+    path: Assets/Scenes/Lesson.unity
+    guid: d17bf42e711914143975231312c819e7
+  - enabled: 1
+    path: Assets/Scenes/FlashCard.unity
+    guid: e14199c031830f14facd608325b2d10c
+  - enabled: 1
+    path: Assets/Scenes/MiniGames.unity
+    guid: 55b60690a620a2940a6ec202da18abad
+  - enabled: 1
+    path: Assets/Scenes/Vocabs.unity
+    guid: 097b3442767d67b4c8e76777ce753536
+  - enabled: 1
+    path: Assets/Scenes/Calculator.unity
+    guid: 73a169d517191c342b101b4890134253
+  - enabled: 1
+    path: Assets/Scenes/Video.unity
+    guid: 7cda6bcee9a018b45a1e2b9b12bcb7df
+  - enabled: 0
+    path: Assets/Scenes/MegaQuiz.unity
+    guid: a1e07c8ee6d450c418300acb5b39d77b
+  - enabled: 0
+    path: Assets/Scenes/StoryBook.unity
+    guid: a5a584af3bbc1cd49b689cacede05a98
+  - enabled: 1
+    path: Assets/ExternalAssets/DrawingAndColoring Extra/Scenes/Landscape/Game.unity
+    guid: edee28a6fe3ccd749a4c0942036877d3
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

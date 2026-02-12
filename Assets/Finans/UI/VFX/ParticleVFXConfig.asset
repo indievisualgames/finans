@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9a95f254245e7248b5f60c7890a16d9, type: 3}
+  m_Name: ParticleVFXConfig
+  m_EditorClassIdentifier: 
+  defaultParticleDuration: 2
+  defaultAutoDestroy: 1
+  defaultParticlePoolSize: 50
+  defaultEnablePooling: 1
+  defaultSpawnOffset: {x: 0, y: 50, z: 0}
+  burstCounts:
+    scoreParticles: 18
+    xpParticles: 25
+    achievementParticles: 50
+    levelUpParticles: 100
+    coinParticles: 20
+    starParticles: 40
+  colors:
+    scoreGain: {r: 0, g: 1, b: 0, a: 1}
+    scoreLoss: {r: 1, g: 0, b: 0, a: 1}
+    xpGain: {r: 0, g: 0, b: 1, a: 1}
+    xpLoss: {r: 1, g: 0.6470588, b: 0, a: 1}
+    coinGain: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    coinLoss: {r: 1, g: 0, b: 0, a: 1}
+    starAchievement: {r: 1, g: 0, b: 1, a: 1}
+    starLoss: {r: 1, g: 0, b: 0, a: 1}
+    levelUp: {r: 0, g: 1, b: 1, a: 1}
+    milestone: {r: 0.627451, g: 0.1254902, b: 0.9411765, a: 1}
+  maxConcurrentParticles: 200
+  particleQualityLevel: 2
+  enableParticleCulling: 1
+  enableParticleAudio: 1
+  particleAudioVolume: 0.3
+  mobileOptimization: 1
+  mobileParticleFactor: 0.5
